@@ -2,6 +2,7 @@
 title:  "XPath Selectors"
 date:   2020-04-13 16:08:32 +0000
 excerpt: XPath is a query language that we can use to select elements on a webpage. In QA it's commonly used in automation to select textboxes or buttons on the page that we can interact with.
+toc: true
 categories:
   - Blog
 tags:
@@ -11,7 +12,6 @@ tags:
   - selenium
 ---
 
-{% include toc %}
 
 XPath is a query language that we can use to select elements on a webpage. In QA it's commonly used in automation to select textboxes or buttons on the page that we can interact with.
 

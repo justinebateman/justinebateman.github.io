@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Justine Bateman"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio: Crazy cat lady, QA engineer
+  bio: Automated QA engineer
   location: Belfast, Northern Ireland
   links:
     - label: "GitHub"

@@ -2,6 +2,7 @@
 title:  "Don't Forget your QA Soft Skills"
 date:   2019-05-09 16:08:32 +0000
 excerpt: Communication and teamwork are skills that are vital to effectively meet project goals. When it comes to QA, don't spend so much time working on your technical skills that you neglect your soft skills.
+toc: true
 categories:
   - Blog
 tags:
@@ -10,7 +11,6 @@ tags:
   - strategy
   - qa
 ---
-{% include toc %}
 
 Communication and teamwork are skills that are vital to effectively meet project goals. When it comes to QA, don't spend so much time working on your technical skills that you neglect your soft skills.
 

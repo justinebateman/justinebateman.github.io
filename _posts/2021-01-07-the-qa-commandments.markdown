@@ -4,13 +4,13 @@ date:   2021-01-07 16:08:32 +0000
 categories:
   - Blog
 excerpt: Don’t test only what the story tells you to, Don’t forget about user experience, Don’t let developers bias you, Don’t write bad bug reports
+toc: true
 tags:
   - testing
   - process
   - strategy
   - qa
 ---
-{% include toc %}
 
 ### Don’t test only what the story tells you to
 

@@ -4,13 +4,13 @@ date:   2019-04-02 16:08:32 +0000
 categories:
   - Blog
 excerpt: QA is not involved in each stage, Focusing on Cost rather than Value, Sacrificing Quality for Speed
+toc: true
 tags:
   - testing
   - process
   - strategy
   - qa
 ---
-{% include toc %}
 
 ### QA is not involved in each stage
 
